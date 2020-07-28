@@ -1,0 +1,61 @@
+.section-home {
+  background-color: #393939;
+  background-size: cover;
+  height: 90vh;
+  color: #F1E4D3;
+}
+
+.home {
+  height: 100%;
+  max-width: 900px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+#bell {
+  margin: 30px 0px 40px 0px;
+}
+
+#one p {
+  font-size: 24px !important;
+  font-style: italic;
+}
+
+.home-body {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.home-footer {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+#sap {
+  height: 70px;
+}
+
+#paysdegex {
+  height: 40px;
+}
+
+@media screen and (max-width: 768px){
+
+  .home-body {
+    width: 400px;
+  }
+
+  .home-footer {
+    justify-content: space-between;
+    padding: 0px 50px;
+  }
+
+  .separateur {
+    height: 60px;
+  }
+}
+
+

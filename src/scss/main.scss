@@ -1,0 +1,56 @@
+@import 'apropos';
+@import 'contact';
+@import 'coronavirus';
+@import 'fonts';
+@import 'home';
+@import 'infos';
+@import 'librairy';
+@import 'modal';
+@import 'navbar';
+@import 'services';
+@import '~bootstrap/scss/bootstrap';
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.section-services,
+.section-apropos,
+.section-contact,
+.section-info {
+  padding: 96px 15px;
+}
+
+.title-section {
+  text-align: center;
+  margin: 0 auto;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Bebas Neue', cursive !important;
+}
+
+h1 {
+  font-size: 60px!important;
+}
+
+h2 {
+  font-size: 40px !important;
+}
+
+h3 {
+  font-size: 32px !important;
+}
+
+h4 {
+  font-size: 24px !important;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif !important;
+  font-size: 18px !important;
+}
+

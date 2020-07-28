@@ -1,0 +1,69 @@
+.section-services {
+  background-color: #FFFFFF;
+}
+
+#services p {
+  color: #9B9B9B;
+  font-size: 18px;
+  font-family: 'Montserrat', sans-serif;
+  margin-bottom: 0 !important;
+}
+
+.services-content {
+  text-align: center;
+}
+
+h4#benoit {
+  color: #E68C0E;
+}
+
+#services h4 {
+  font-family: 'Bebas Neue', cursive;
+  font-size: 32px;
+  line-height: 2rem;
+}
+
+.services-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 50px auto;
+  justify-content: center;
+  max-width: 900px;
+}
+
+.services-card {
+  width: 250px;
+  margin: 20px 20px;
+  padding: 25px 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  background-color: #FFFFFF;
+  color: #393939;
+  border-radius: 8px;
+  box-shadow: 0px 0px 10px -4px rgba(155,155,155,.6);
+}
+
+.icones-services {
+  height: 80px;
+  margin-bottom: 20px;
+}
+
+.btn-modal {
+  cursor: pointer;
+  margin-top: 20px;
+  padding: 10px 15px;
+  border: solid 1px #E68C0E !important;
+  border-radius: 50px !important;
+  background-color: #ffffff;
+  color: #E68C0E !important;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.btn-modal:hover {
+  color: #FFFFFF !important;
+  background-color: #E68C0E;
+}
+

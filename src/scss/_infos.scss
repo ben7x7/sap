@@ -1,0 +1,47 @@
+.logos-info {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+#info p {
+  text-align: justify;
+}
+
+.info-wrapper {
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.box-1 {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#icone-sap {
+  width: 150px;
+}
+
+#icone-reduction {
+  width:100px;
+  margin-left: 20px;
+}
+.box-2 {
+  text-align: center;
+}
+
+.separateur {
+  text-align: center;
+}
+
+#declaration {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 14px;
+  font-style: italic;
+  margin-top: 30px;
+  text-align: center;
+}
+
+
