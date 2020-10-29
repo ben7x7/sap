@@ -1,0 +1,1 @@
+# Navbar animation with JS
